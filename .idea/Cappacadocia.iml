@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="js" />
+    <orderEntry type="module" module-name="Урок 1 - Введение, типы данных" />
+    <orderEntry type="module" module-name="Урок 2 - Все об условиях и циклах" />
+    <orderEntry type="module" module-name="Урок 3 - Все о функциях" />
+    <orderEntry type="module" module-name="Урок 4 - Объекты, массивы, псевдомассивы. Основы ООП" />
+    <orderEntry type="module" module-name="Урок 5 - Доступ к элементам на странице" />
+    <orderEntry type="module" module-name="Урок 6 - События в JS, обработчики событий и особенности их работы" />
+    <orderEntry type="module" module-name="Урок 7 - Скрипты и время выполнения. setTimeout и setInterval" />
+    <orderEntry type="module" module-name="Урок 8 - Параметры документа, окна и работа с ними" />
+    <orderEntry type="module" module-name="learnJScript" />
+    <orderEntry type="module" module-name="Урок 9 - Контекст вызова this" />
+    <orderEntry type="module" module-name="плавная прокрутка для меню на чистом JS" />
+    <orderEntry type="module" module-name="Урок 10 - Особенности современного стандарта. Тренды. Интерполяция" />
+    <orderEntry type="module" module-name="Урок 11 - Работа с JSON, AJAX" />
+    <orderEntry type="module" module-name="Урок 12 - JQuery, как устроена $. Современные библиотеки и фрэймворки" />
+    <orderEntry type="module" module-name="Урок 13 - Слайдер на чистом JS" />
+    <orderEntry type="module" module-name="Урок 14 - Приём модуль. Зачем и как использовать. Инкапсуляция" />
+  </component>
+</module>
